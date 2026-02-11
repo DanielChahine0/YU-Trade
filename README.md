@@ -39,6 +39,8 @@ The backend encapsulates the core application logic, including authentication, l
 
 See the system architecture diagram in [System Architecture.md](System%20Architecture.md).
 
+For the full intended product specification, see [Design Document.md](Design%20Document.md).
+
 ## Scope (In-Scope Functionality)
 
 - Basic login/registration and a profile/portfolio view
