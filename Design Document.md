@@ -1,19 +1,3 @@
-EECS4314  
-Detailed Design & Implementation Plan  
-Group 6  
-
-Rajendra Brahmbhatt - 217925157  
-Mai Komar - 218590935  
-Harnaindeep Kaur - 217621137  
-Michael Byalsky - 219026202  
-Lakshan Kandeepan - 216440521  
-Daniel Chahine - 219598994  
-
-Authors: Rajendra Brahmbhatt, Mai Komar, Harnaindeep Kaur, Michael Byalsky, Lakshan Kandeepan, Daniel Chahine  
-Contributors: Same as authors  
-Last updated: February 11, 2026  
-Status: Draft  
-
 ## Purpose
 YU-Trade is an online marketplace designed specifically for current York University members (students, faculty, professors). Verified users can post items for sale, browse listings, and privately message sellers about specific products. Access is limited to York University emails (`@my.yorku.ca`, `@yorku.ca`) to improve safety and trust compared to open marketplaces.
 
